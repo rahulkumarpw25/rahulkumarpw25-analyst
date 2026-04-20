@@ -3,6 +3,8 @@
 
 👋 Hi, I'm Rahul Kumar
 📊 Data Analyst · Excel · SQL · Power BI · Python . Tableau
+
+
 "I don't just build charts — I build clarity."
 
 
