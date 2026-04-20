@@ -39,29 +39,43 @@ Tableau  Intractive Dashboard
 Revenue trends · Demographic & regional analysis · Marketing insights
 
 
-🏥	Hospital Emergency Room Dashboard
- Excel · Power Query
-Peak admission trends · Patient flow metrics · Operational efficiency
+🏥	Hospital Emergency Room Dashboard:
 
 
-🛒	E-commerce Sales Analysis Dashboard
- Power BI
-10,000+ records · Sales, profit & AOV drill-downs · KPI tracking
+ 
+ Excel: Ad Excel · Power Query . Dashboard
+
+Peak admission trends · Patient flow metrics · Operational efficiency.
+
+
+🛒	E-commerce Sales Analysis Dashboard:
+
+
+ Power BI:
+
+10,000+ records · Sales, profit & AOV drill-downs · KPI tracking.
 
 
 🎵	Digital Music Store Analysis
- SQL
-CTEs · Window functions · Customer behavior · Sales performance
-🛍️	Customer Purchase Behavior Analysis
-
  
- Python
+ SQL:
+
+CTEs · Window functions · Customer behavior · Sales performance.
+
+
+🛍️	Customer Purchase Behavior Analysis:
+
+ Python:  
+ 
+ EDA · Demographic & regional buying patterns · Category insights
 
 
 
-EDA · Demographic & regional buying patterns · Category insights
-📜 Certifications
-NIELIT CCC BCA POWER BI, Gen AI for All and PwSkills Data Analysis Certificate
+
+📜 Certifications:
+
+NIELIT CCC,
+BCA, POWER BI, Gen AI for All and PwSkills Data Analysis Certificate
 
 
 
