@@ -11,7 +11,14 @@
 
 🎯 Data Analyst who transforms raw data into business decisions — not just charts, but clarity.
 
-BEd with CTET passed having 6 months teaching experience· Currently leveling up with Gen AI + Data Analytics at PW Skills.
+BA with History and Economics, 
+
+BEd with CTET passed having 6 months teaching experience· 
+
+Currently leveling up with Gen AI + Data Analytics at PW Skills.
+    
+And pursuing MBA(Finance and HR) from Delhi University.
+
 
 📍 Open to Data Analyst · MIS Analyst · BI Analyst . Business Analyst roles — PAN India & Globe.
 
@@ -74,8 +81,17 @@ CTEs · Window functions · Customer behavior · Sales performance.
 
 📜 Certifications:
 
-NIELIT CCC,
-BCA, POWER BI, Gen AI for All and PwSkills Data Analysis Certificate
+
+Non Tech:
+English B1 qualified from British Embassy, New Delhi
+CTET exam passed with 60% marks in Feb 2026
+
+
+
+Tech:
+NIELIT CCC,BCA, 
+POWER BI, PWSkills Gen AI for All 
+And PWSkills Data Analysis Certificate.
 
 
 
