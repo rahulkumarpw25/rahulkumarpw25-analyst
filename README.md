@@ -85,7 +85,7 @@ CTEs · Window functions · Customer behavior · Sales performance.
 
 
 Non Tech:
-English B1 qualified from British Embassy, New Delhi
+English B1 qualified from British Embassy, New Delhi,
 CTET exam passed with 60% marks in Feb 2026
 
 
