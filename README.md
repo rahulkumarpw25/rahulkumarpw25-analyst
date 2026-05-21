@@ -48,13 +48,9 @@ Tableau  Intractive Dashboard
 Revenue trends · Demographic & regional analysis · Marketing insights
 
 
-🏥	Hospital Emergency Room Dashboard:
-
 
  
  Excel: Ad Excel · Power Query . Dashboard
-
-Peak admission trends · Patient flow metrics · Operational efficiency.
 
 
 🛒	E-commerce Sales Analysis Dashboard:
@@ -65,7 +61,7 @@ Peak admission trends · Patient flow metrics · Operational efficiency.
 10,000+ records · Sales, profit & AOV drill-downs · KPI tracking.
 
 
-🎵	Digital Music Store Analysis
+Coffee Shop Sales:
  
  SQL:
 
